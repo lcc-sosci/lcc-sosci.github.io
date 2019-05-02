@@ -1,0 +1,8 @@
+.libPaths("/home/trey/R/library")
+Sys.setenv("R_LIBS" = "~/R/library")
+Sys.setenv("R_LIBS_USER" = "~/R/library")
+Sys.setenv("R_LIBS_SITE" = "~/R/library")
+# lapply(c("tidyverse", "googlesheets", "maptools", "rworldmap", "ggvis", "ggmap", "scales", "sp", "rgdal", "raster", "rnaturalearth", "rnaturalearthdata", "rnaturalearthhires", "jpeg", "png", "demogR", "popbio", "R2OpenBUGS", "ggthemes", "RColorBrewer", "dismo", "rgeos", "gridExtra", "rasterVis", "rasterImage", "blogdown", "bookdown", "forcats", "BRugs", "maps", "mapdata","ggthemr", "lubridate", "data.table", "ggrepel", "conflicted", "haven"), require, character.only = TRUE)
+# conflict_prefer("select", "dplyr")
+library(rmarkdown)
+library(blogdown)
