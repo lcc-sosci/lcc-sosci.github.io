@@ -4,18 +4,22 @@ subtitle: Who are LCC's social science faculty?
 title: About Us
 ---
 
-## Trey Batey
+### Trey Batey
 
-## Jim Franz
+Trey joined the department in 2015. His education and training primarily focus on anthropology with specializations in bioarchaeology and forensic anthropology.
 
-## Mary Leach
+<img src="https://lh3.googleusercontent.com/DxOgHgEuVRZBYtEPwy545S_4xw88w_0e5W3AY4UNpQeW6wS0f6G4ChXM5x2v6SQiDJG82NS-mbg1ptOHCF8Z8KTB0vIW0-vZIo6gJu-W5yuTQyvYsrtsQKKloCpvHfmjdwar984pP_oPj2JNU7WLGsq3ucQJFU3kFHWHCj0PwW3hjI0vx7iFf3EDwJWcw0CJdPkAvS740Vjo-DByHH4SCfPX4gdUoM0sbkuY9IsjhMtsEFPmE-jGJsZZlvmdMRETJF41S30jukoFNdZWmBiHE1nni8Kp6lwm1pN94dyWk-DnyKUSkfXa8ovsGQzvHCHP60m7zM8R3lRWdFayE5dcZoTPGnLVmCY9DW_MandzDSG8d_q7TUjUHPmQmhPIxhe-c1F2AQPLQ6OklGBB3wDwYlB-0p9MjWQTOVZDByQ8mAdAfS9XK7X17Q4bffjuXfmLTX6WvZEECdGQ_yCJCnt9LV4gRsoBeZO2xXlPV9wVFpygNJXGfb4zkYIFqa_OjMFp7xHjNXNm6qgIYHYDLwWRmpeSS2fkGJw-8XHCbyF1ZKH8SGQ2rI19l4ks92BJqTWldlJ6WKUZUj8UdNTtnzftVv_aIWHqTCO-6-KDonnKWA5J6ZZBXJ4lRubKHAOVbB19kkqXP8gjyF0owF0MBrmNvVTYWN4ynVjR=w627-h836-no" width="200"/>
 
-## Joanna Mosser
+### Jim Franz
 
-## Anita Quirk
+### Mary Leach
 
-## Courtney Shah
+### Joanna Mosser
 
-## Michael Strayer
+### Anita Quirk
 
-## Nonnie Weaver
+### Courtney Shah
+
+### Michael Strayer
+
+### Nonnie Weaver
