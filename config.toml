@@ -1,4 +1,4 @@
-baseurl = "https://lcc-sosci.netlifly.com"
+baseurl = "https://lcc-sosci.netlify.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Lower Columbia Social Sciences"
