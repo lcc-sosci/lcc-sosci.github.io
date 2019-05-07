@@ -1,16 +1,21 @@
 ---
 comments: false
-subtitle: Why you'd want to go on a date with me
-title: About me
+subtitle: Who are LCC's social science faculty?
+title: About Us
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Trey Batey
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Jim Franz
 
-What else do you need?
+## Mary Leach
 
-### my history
+## Joanna Mosser
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Anita Quirk
+
+## Courtney Shah
+
+## Michael Strayer
+
+## Nonnie Weaver
