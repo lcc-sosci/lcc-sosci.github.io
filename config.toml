@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Unofficial website for the Deparment of Social Sciences at Lower Columbia College"
+  subtitle = "An unofficial website of the Social Science Department at Lower Columbia College"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -43,35 +43,88 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
+  #name = "Some Person"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "username"
-  gitlab = "username"
-  bitbucket = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
   twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
+  #reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
 
 [[menu.main]]
     name = "Blog"
     url = ""
     weight = 1
+    
+[[menu.main]]
+    identifier = "faculty"
+    name = "Faculty"
+    weight = 1
+    
+[[menu.main]]
+    parent = "faculty"
+    name = "Trey Batey"
+    url = "page/faculty/trey"
+    weight = 2
+    
+[[menu.main]]
+    parent = "faculty"
+    name = "Jim Franz"
+    url = "page/faculty/jim"
+    weight = 3
+
+[[menu.main]]
+    parent = "faculty"
+    name = "Mary Leach"
+    url = "page/faculty/mary"
+    weight = 4
+    
+[[menu.main]]
+    parent = "faculty"
+    name = "Joanna Mosser"
+    url = "page/faculty/joanna"
+    weight = 5
+    
+[[menu.main]]
+    parent = "faculty"
+    name = "Anita Quirk"
+    url = "page/faculty/anita"
+    weight = 6
+
+[[menu.main]]
+    parent = "faculty"
+    name = "Courney Shah"
+    url = "page/faculty/courtney"
+    weight = 7
+
+[[menu.main]]
+    parent = "faculty"
+    name = "Michael Strayer"
+    url = "page/faculty/michael"
+    weight = 8
+    
+[[menu.main]]
+    parent = "faculty"
+    name = "Nonnie Weaver"
+    url = "page/faculty/nonnie"
+    weight = 9
 
 [[menu.main]]
     name = "About"

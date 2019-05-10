@@ -5,8 +5,8 @@
     <link>/</link>
     <description>Recent content on Lower Columbia Social Sciences</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>youremail@domain.com</managingEditor>
+    <webMaster>youremail@domain.com</webMaster>
     <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>The rationale for this website</title>
       <link>/post/the-rationale-for-this-website/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>youremail@domain.com</author>
       <guid>/post/the-rationale-for-this-website/</guid>
       <description>I&amp;rsquo;ve been thinking of creating this website for quite some time, now.</description>
     </item>
@@ -25,10 +25,81 @@
       <title>About Us</title>
       <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>youremail@domain.com</author>
       <guid>/page/about/</guid>
-      <description> Trey Batey Trey joined the department in 2015. His education and training primarily focus on anthropology with specializations in bioarchaeology and forensic anthropology.
-Jim Franz Mary Leach Joanna Mosser Anita Quirk Courtney Shah Michael Strayer Nonnie Weaver </description>
+      <description>The Social Science Department is really cool. Our faculty teach courses that provide a strong foundation in the liberal arts and sciences. These include class offerings from disciplines among the traditional social sciences, humanities (history and philosophy), and criminal justice.</description>
+    </item>
+    
+    <item>
+      <title>Anita Quirk</title>
+      <link>/page/faculty/anita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/anita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courtney Shah</title>
+      <link>/page/faculty/courtney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/courtney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Franz</title>
+      <link>/page/faculty/jim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/jim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joanna Mosser</title>
+      <link>/page/faculty/joanna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/joanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mary Leach</title>
+      <link>/page/faculty/mary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/mary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Strayer</title>
+      <link>/page/faculty/michael/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/michael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonnie Weaver</title>
+      <link>/page/faculty/nonnie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/nonnie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trey Batey</title>
+      <link>/page/faculty/trey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com</author>
+      <guid>/page/faculty/trey/</guid>
+      <description>Trey joined the department in 2015. His education and training primarily focus on anthropology with specializations in bioarchaeology and forensic anthropology.</description>
     </item>
     
   </channel>

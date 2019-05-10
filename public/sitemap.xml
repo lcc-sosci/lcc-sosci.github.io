@@ -17,8 +17,36 @@
   </url>
   
   <url>
+    <loc>/page/faculty/anita/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/courtney/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/jim/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/joanna/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/mary/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/michael/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/nonnie/</loc>
   </url>
   
   <url>
@@ -35,6 +63,10 @@
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/page/faculty/trey/</loc>
   </url>
   
 </urlset>
