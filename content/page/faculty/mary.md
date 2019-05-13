@@ -1,6 +1,6 @@
 ---
 comments: false
-subtitle: Humanities
+subtitle: Humanities & Philosophy
 title: Mary Leach
 ---
 

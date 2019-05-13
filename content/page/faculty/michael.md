@@ -1,6 +1,6 @@
 ---
 comments: false
-subtitle: Psychology
+subtitle: Psychology & Sociology
 title: Michael Strayer
 ---
 
