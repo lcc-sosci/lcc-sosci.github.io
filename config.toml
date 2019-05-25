@@ -15,10 +15,10 @@ pygmentsCodefencesGuessSyntax = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "An unofficial website of the Social Science Department at Lower Columbia College"
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  subtitle = "A website/blog of the Social Science Department at Lower Columbia College"
+  logo = "https://upload.wikimedia.org/wikipedia/commons/9/9b/Social_Network_Analysis_Visualization.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "2 January 2006"
   commit = false
   rss = true
   comments = true
